@@ -7,3 +7,4 @@ These recordings where made with Audiomoth devices at a sample rate of 48kHz and
 To quantify the noise we developed an automatic detection algorithm and cross-validate it with perceptual and meterological data. At first we characterize the source by its fundamental frequency (see **generator_characterization.py**, recordings can be found [here](https://doi.org/10.5281/zenodo.14803434)). We use
 this information to evaluate the presence of this frequency component in the recordings made at [Ardley](https://doi.org/10.5281/zenodo.14780840) and [Frei](https://doi.org/10.5281/zenodo.14801757) site (see **detection_around_75Hz.py**). 
 
+![](https://github.com/m-anzibarfialho/Power-generator-detector/blob/main/Figure_2%20(1).jpg)
