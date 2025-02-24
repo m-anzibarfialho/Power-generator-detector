@@ -10,4 +10,4 @@ To quantify the noise we developed an automatic detection algorithm and cross-va
 this information to evaluate the presence of this frequency component in the recordings made at [Ardley](https://doi.org/10.5281/zenodo.14780840) and [Frei](https://doi.org/10.5281/zenodo.14801757) site (see **detection_around_75Hz.py**). 
 
 
-An example on how to obtain the detection values for every recording of the day for a specific month can be found as a Jupyter Notebook (power_generator_detection_example.ipynb)
+An example on how to obtain the detection values for every recording of the day for a specific month can be found as a Jupyter Notebook (**power_generator_detection_example.ipynb**)
