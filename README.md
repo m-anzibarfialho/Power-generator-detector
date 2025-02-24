@@ -1,4 +1,4 @@
-# Detection of anthropogenic noise pollution as a possible chronic stressor in Antarctic Specially Protected Area Nº150, Ardley Island 
+# Detection of power generator noise in Antarctic Specially Protected Area Nº150, Ardley Island 
 
 In this work we study sound as a possible chronic stressor of an Antarctic Specially Protected Area (ASPA). Recorings where made in Fildes Peninsula, part of King George/South Shetland Island, at two specific points. 1) Ardley site, located inside Ardley Island (which is the ASPA)
 and 2) Frei site, located near a conglomerate of research stations within a distance of approximately 2km from the ASPA. 
